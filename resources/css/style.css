@@ -1,0 +1,108 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: white;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+
+}
+
+h4 {
+    background-color: gray;
+    color: white;
+    margin: 0;
+    padding: 8px 20px;
+}
+
+.header {
+    text-transform: uppercase;
+    font-family: Verdana, sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
+    padding: 10px;
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: right;
+}
+
+li {
+    color: rgb(128, 128, 128);
+    font-weight: bold;
+    display: inline;
+    font-size: 1rem;
+}
+
+footer {
+    font-size: 12px;
+    color: gray;
+}
+
+.oncampus {
+    background-color: lightgray;
+}
+
+.banner {
+    width: 300px;
+}
+
+.infomain {
+    width: 300px;
+}
+
+.infoorientation {
+    width: 300px;
+}
+
+.infocampus {
+    width: 300px;
+}
+
+.infoguest {
+    width: 300px;
+}
+
+.coursesoft {
+    width: 300px;
+}
+
+.coursecompart {
+    width: 300px;
+}
+
+.coursedesign {
+    width: 300px;
+}
+
+.coursedata {
+    width: 300px;
+}
+
+.coursebus {
+    width: 300px;
+}
+
+.coursemarket {
+    width: 300px;
+}
+
+.video {
+    width: 300px;
+}
+
+.thesisfisma {
+    width: 300px;
+}
+
+.thesisnowthen {
+    width: 300px;
+}
