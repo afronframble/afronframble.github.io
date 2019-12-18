@@ -8,14 +8,14 @@ body {
 }
 
 h1 {
-
+    color: rgb(50, 50, 50);
 }
 
 h4 {
-    background-color: gray;
+    background-color: rgb(50, 50, 50);
     color: white;
-    margin: 0;
-    padding: 8px 20px;
+    margin: auto;
+    padding: 8px 50px;
 }
 
 .header {
@@ -25,6 +25,7 @@ h4 {
     font-weight: normal;
     padding: 10px;
     text-align: left;
+    display: inline;
 }
 
 ul {
@@ -32,11 +33,10 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    float: right;
 }
 
 li {
-    color: rgb(128, 128, 128);
+    color: rgb(50, 50, 50);
     font-weight: bold;
     display: inline;
     font-size: 1rem;
@@ -44,65 +44,45 @@ li {
 
 footer {
     font-size: 12px;
-    color: gray;
+    color: rgb(50, 50, 50);
 }
 
-.oncampus {
-    background-color: lightgray;
+.navigate {
+    float: right;
+    font-size: 16px;
 }
 
 .banner {
-    width: 300px;
+    margin: 0;
 }
 
-.infomain {
-    width: 300px;
+.banner img {
+    padding: 32px 24px;
 }
 
-.infoorientation {
-    width: 300px;
+.oncampus {
+    color: rgb(50, 50, 50);
+    background-color: lightgray;
+    display: inline-block;
 }
 
-.infocampus {
-    width: 300px;
+.start-button {
+    padding: 8px 30px;
+    float: right;
 }
 
-.infoguest {
-    width: 300px;
+.imglarge {
+    width: 60%;
 }
 
-.coursesoft {
-    width: 300px;
+.imglarge {
+    width: 60%;
 }
 
-.coursecompart {
-    width: 300px;
+.imgmedium {
+    height: auto;
 }
 
-.coursedesign {
-    width: 300px;
-}
-
-.coursedata {
-    width: 300px;
-}
-
-.coursebus {
-    width: 300px;
-}
-
-.coursemarket {
-    width: 300px;
-}
-
-.video {
-    width: 300px;
-}
-
-.thesisfisma {
-    width: 300px;
-}
-
-.thesisnowthen {
-    width: 300px;
+#campus {
+    color: rgb(50, 50, 50);
 }
